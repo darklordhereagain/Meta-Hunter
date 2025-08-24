@@ -1,0 +1,6 @@
+pytz
+requests
+beautifulsoup4
+colorama
+fake_email
+faker
